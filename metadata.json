@@ -1,0 +1,5 @@
+{
+  "name": "Mathematical Card Battle",
+  "description": "A tactical card game where players wield the power of mathematical concepts to defeat their opponents. This React-based web application features multiple mathematical branches, a variety of cards, and a smart AI opponent powered by the Gemini API.",
+  "requestFramePermissions": []
+}
